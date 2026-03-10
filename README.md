@@ -3,11 +3,8 @@
 ## AIM
 To develop a convolutional autoencoder for image denoising application.
 
-## THEORY
+## Problem Statement and Dataset
 
-
-## Neural Network Model
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 ### STEP 1: 
