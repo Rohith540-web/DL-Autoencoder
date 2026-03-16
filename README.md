@@ -154,11 +154,15 @@ def visualize_denoising(model, loader, num_images=10):
 
 ### Model Summary
 
-
+<a href="https://ibb.co/4g9nLXFY"><img src="https://i.ibb.co/sJkd4Ng6/Screenshot-2026-03-15-132626.png" alt="Screenshot-2026-03-15-132626" border="0"></a>
 
 ### Training loss
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Zzscx09n/Screenshot-2026-03-16-200910.png" alt="Screenshot 2026 03 16 200910" border="0"></a>
+
 ## Original vs Noisy Vs Reconstructed Image
+
+<a href="https://ibb.co/BH9WK0Qp"><img src="https://i.ibb.co/dsRCJ8VT/Screenshot-2026-03-16-200921.png" alt="Screenshot-2026-03-16-200921" border="0"></a>
 
 ## RESULT
 
