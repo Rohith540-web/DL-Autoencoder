@@ -87,8 +87,8 @@ model = DenoisingAutoencoder().to(device)
 criterion = nn.MSELoss()
 optimizer = optim.Adam(model.parameters(), lr=1e-3)
 
-print("Name: Sharan Kumar G")
-print("Register Number: 212224230260")
+print("Name: Rohith V")
+print("Register Number: 212224220083")
 summary(model, input_size=(1, 28, 28))
 
 def train(model, loader, criterion, optimizer, epochs=5):
